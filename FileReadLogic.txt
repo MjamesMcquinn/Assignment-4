@@ -1,0 +1,25 @@
+// File Reading Logic
+//  Use getLine method to perform reads
+//  interior fields use ':' as delimeter
+//  last field read must use '\n' as delimeter
+//  
+do
+{
+//  Read First Name field
+//  Store First Name field in array
+//  Read Last Name field
+//  Store Last Name field in array
+//  Read Address
+//  Store Address
+//  Read Employee ID field
+//  Convert Employee ID to integer
+//  Store Employee ID field in array
+//  Read Pay Rate field
+//  Convert Pay Rate to double
+//  Store Pay Rate field in array
+//  Read Hours Worked field
+//  Convert Hours Worked to double
+//  Store Hours Worked field in array
+//  if (inFile.peek() == EOF) inFile.get();
+//
+} while (inFile.eof( ) == false)
